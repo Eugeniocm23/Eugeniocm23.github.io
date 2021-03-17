@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Ándor","characterIndex":0,"characterName":"w-Ándor","classId":5,"equips":[0,5,0,0,0],"faceIndex":0,"faceName":"Ándor","traits":[{"code":43,"dataId":11,"value":1},{"code":44,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Ándor","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"w-Bente","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Bente","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bente","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Cal2","characterIndex":0,"characterName":"w-Cal2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Cal2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cal","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Drakkar","characterIndex":0,"characterName":"w-Drakkar","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Drakkar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Drakkar","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"w-El comandante","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"El comandante","traits":[],"initialLevel":1,"maxLevel":99,"name":"El comandante","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"w-Famina2","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Famina2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Famina","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Gazlo","characterIndex":0,"characterName":"w-Gazlo","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Gazlo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gazlo","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Hana","characterIndex":0,"characterName":"w-Hana","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Hana","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hana","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"Inzo","characterIndex":0,"characterName":"w-Inzo","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Inzo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Inzo","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
